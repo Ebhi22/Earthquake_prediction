@@ -5,7 +5,7 @@ In first phase of this project we are performing  data visualization, EDA(Explor
 - [Installation](#installation)
 - [Training](#training)
 - [Evaluation](#evaluation)
-- Models Used
+- [Models](#Models)
 - [Contribution](#contribution)
   
 
@@ -20,7 +20,7 @@ Version of the packages:<p>
 6.keras
 7.scikeras
 
-# Models Used:
+# Models:
 
 1.Linear Regression<p>
 2.Ridge Regression<p>
