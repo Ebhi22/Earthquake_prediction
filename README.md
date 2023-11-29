@@ -18,4 +18,3 @@ Version of the packages:<p>
 3.scikit-learn==1.3.2<p>
 # Data
 
-Data set used for model training is given in below link:
