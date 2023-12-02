@@ -25,6 +25,9 @@ Version of the packages:<p>
 1.Linear Regression<p>
 2.Ridge Regression<p>
 3.Neural Network<p>
+# Evaluation:
+With neural network model we are getting highest accuracy so this is our final model<p>
+. Neural Network Model Accuracy = 96.96%<p>
 
 # Contribution:
 
