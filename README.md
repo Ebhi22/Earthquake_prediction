@@ -22,9 +22,10 @@ Version of the packages:<p>
 
 # Models:
 
-1.Linear Regression<p>
-2.Ridge Regression<p>
-3.Neural Network<p>
+1.Random Forest accuracy: 41%<p>
+2.linear Regression: R2 Score : 3.75%,  MAE : 3560.38%,  MSE : 773598.60%<p>
+3.Neural Network accuracy: 96.96%<p>
+
 # Evaluation:
 With neural network model we are getting highest accuracy so this is our final model<p>
 . Neural Network Model Accuracy = 96.96%<p>
